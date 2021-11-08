@@ -96,7 +96,7 @@ service support</li>
     # service item loop
     - title : "Outcomes"
       images:
-      - "images/service-3.png"
+      - "images/credibility.jpg"
       content : "<p>Smart Gym will help the people with disabilities to become a part of the world sports community thanks to inclusion and IoT approach.</p>
       <p>Stockholm and citizens will receive a unique inclusive sports object. The partner’s brand will be integrated into the city's ecosystem.</p>
       <p>Holding events and regular mentioning in the media will increase brand awareness and raising of credibility.</p>"
@@ -108,7 +108,7 @@ service support</li>
     # service item loop
     - title : "Potential partners"
       images:
-      - "images/service-3.png"
+      - "images/contract.jpg"
       content : "Cooperation with local authorities, NGOs, universities, corporates and foundations within the framework of inclusion and social responsibility may cause a really great impact in outdoor workouts and inclusive thinking."
       button:
         enable : false
@@ -118,10 +118,8 @@ service support</li>
     # service item loop
     - title : "Media"
       images:
-      - "images/service-3.png"
-      content : "<p>Smart Gym will help the people with disabilities to become a part of the world sports community thanks to inclusion and IoT approach.</p>
-      <p>Stockholm and citizens will receive a unique inclusive sports object. The partner’s brand will be integrated into the city's ecosystem.</p>
-      <p>Holding events and regular mentioning in the media will increase brand awareness and raising of credibility.</p>"
+      - "images/Socialmedia-pm.png"
+      content : "Each new ground and related event will be published in all available media, as well as blog."
       button:
         enable : false
         label : "Check it out"
@@ -130,10 +128,22 @@ service support</li>
     # service item loop
     - title : "Global changing"
       images:
-      - "images/service-3.png"
-      content : "<p>Smart Gym will help the people with disabilities to become a part of the world sports community thanks to inclusion and IoT approach.</p>
-      <p>Stockholm and citizens will receive a unique inclusive sports object. The partner’s brand will be integrated into the city's ecosystem.</p>
-      <p>Holding events and regular mentioning in the media will increase brand awareness and raising of credibility. </p>"
+      - "images/earth_result.png"
+      content : "Implementation in Sweden and setting the project as a new standard of fitness can make that really global. It can be inspiring example and improve inclusive thinking all over the world."
+      button:
+        enable : false
+        label : "Check it out"
+        link : "#"       
+
+    # service item loop
+    - title : "We have now"
+      images:
+      - "images/stockholm-g7606281ab_640.jpg"
+      content : "Agreements with
+<ul><li>Stockholms stads idrottsförvaltning (Stockholm Sports Department) in the way of informational support</li>
+<li>Parasport Stockholm in the way of testing the gym by para-athletes</li>
+<li>VK Arkitektur in the way of architectural support</li>
+<li>HAGS company as a potential contractor</li></ul>"
       button:
         enable : false
         label : "Check it out"
@@ -143,16 +153,16 @@ service support</li>
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
-  image : "images/screenshot.svg"
+  title : "Goal: Smart Gym in Stockholm. Branded examples:"
+  image : "images/example.png"
   
 
 ##################### Call to action #####################
 call_to_action:
   enable : true
   title : "Ready to help us?"
-  image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  image : "images/partnership.jpg"
+  content : ""
   button:
     enable : true
     label : "Contact Us"
