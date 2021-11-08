@@ -8,8 +8,7 @@ draft: false
 
 
 ### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+Sports and physical activity are important areas for self-realization, because they are based on the main component of life – movement. And the implementation of this possibility is very relevant for people who have received a disability for any reason.
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Phone: +47 000 000 000** 
+* **Mail: info@swedensmartgym.se**
