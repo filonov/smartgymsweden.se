@@ -1,2 +1,1 @@
-# smartgymsweden.se
-Landing for Smart Gym Project.
+# smartgymsweden
