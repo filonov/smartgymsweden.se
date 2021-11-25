@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
+baseURL = "http://smartgymsweden.se/"
 title = "Sweden Smart Gym Project"
 theme = "bigspring-hugo"
 # post pagination

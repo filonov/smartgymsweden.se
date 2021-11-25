@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Smart Gym Sweden"
-  image : "/images/P-018_2017_humans-uai-1440x1037.jpg"
+  # image : "/images/P-018_2017_humans-uai-1440x1037.jpg"
   content : "At the intersection of inclusion and IoT (Internet of Things) approach there is a strong necessity of creation the smart inclusive outdoor gym."
   button:
     enable : true
@@ -51,28 +51,28 @@ cardio stations, heated crossbars, extra elements for aesthetics and advanced fi
 service:
   enable : true
   service_item:
-    # service item loop
-    - title : "Screen"
-      images:
-      - "images/VA.JPG"
-      content : "There is the potential to provide up to 4800 classes per year, based around a programmed daily / weekly schedule.
-The screen also can be used for partner’s marketing activities.
-Smart Gym is the first project of smart disabled-friendly design of outdoor training in Sweden."
-      button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+#     # service item loop
+#     - title : "Screen"
+#       images:
+#       - "images/VA.JPG"
+#       content : "There is the potential to provide up to 4800 classes per year, based around a programmed daily / weekly schedule.
+# The screen also can be used for partner’s marketing activities.
+# Smart Gym is the first project of smart disabled-friendly design of outdoor training in Sweden."
+#       button:
+#         enable : false
+#         label : "Check it out"
+#         link : "#"
         
-    # service item loop
-    - title : "Extra elements"
-      images:
-      - "images/shortened-energy-recumbent-bike.jpg"
-      - "images/shortened-energy-hand-bike-2.jpg"
-      content : "The gym can be equipped with energy-generating (can charge a device via USB) elements, also available for people with disabilities."
-      button:
-        enable : false
-        label : "Check it out"
-        link : "#"
+#     # service item loop
+#     - title : "Extra elements"
+#       images:
+#       - "images/shortened-energy-recumbent-bike.jpg"
+#       - "images/shortened-energy-hand-bike-2.jpg"
+#       content : "The gym can be equipped with energy-generating (can charge a device via USB) elements, also available for people with disabilities."
+#       button:
+#         enable : false
+#         label : "Check it out"
+#         link : "#"
         
     # service item loop
     - title : "Stages"
@@ -152,14 +152,14 @@ service support</li>
 
 ################### Screenshot ########################
 screenshot:
-  enable : true
+  enable : false
   title : "Goal: Smart Gym in Stockholm. Branded examples:"
   image : "images/example.png"
   
 
 ##################### Call to action #####################
 call_to_action:
-  enable : true
+  enable : false
   title : "Ready to help us?"
   image : "images/partnership.jpg"
   content : ""
